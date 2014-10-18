@@ -1,5 +1,5 @@
 LincsList
 ========
 
-- [google]()
-- lorem ipsum
+- [google]() || author
+- lorem ipsum || author
