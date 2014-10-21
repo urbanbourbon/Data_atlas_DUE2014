@@ -1,10 +1,10 @@
-Data_atlas_DUE2014
+Данные по инфраструктуре города и муниципальным/государственным объектам
 ==================
 
 ###Data atlas of SPB
 
 
 
-###Resources
+###Ссылки
 
-- [Hithub Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Территории, по которым утверждены ПДП](http://data.gov.spb.ru/datasets/6255/) || added by Philipp Kats
