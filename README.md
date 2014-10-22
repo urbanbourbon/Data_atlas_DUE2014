@@ -16,6 +16,8 @@ Deadline: 25.10.2014
 Кстати, при работе с текстом (не кодом и не данными) вы можете работать через браузер сразу в он-лайн репозитории:
 как это сделать, посмотрите в [гайде](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/1_Intensiv_16-18oct/1_3_Data_Expedition/GitHub_guide_edit.md)
 
+Посмотрите на [пример подобного списка](https://github.com/Casyfill/Data_atlas_DUE2014/blob/master/Meta/README.md)
+
 ###Задание №2
 Будет обьявленно в субботу
 
