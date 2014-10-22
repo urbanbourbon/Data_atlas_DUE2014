@@ -37,6 +37,3 @@ Deadline: 25.10.2014
 - [Github Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [StackEdit](https://stackedit.io/)
 
-
-Transport
-==================
