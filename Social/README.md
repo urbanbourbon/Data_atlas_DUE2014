@@ -5,6 +5,6 @@ Data_atlas_DUE2014
 
 
 
-###Resources
+###Sources
 
-- [Hithub Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Официальная статистика](http://gov.spb.ru/helper/new_stat/)
