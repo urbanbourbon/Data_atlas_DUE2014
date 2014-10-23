@@ -1,12 +1,3 @@
-юдпеямюъ хмбеярхжхнммюъ опнцпюллю мю 2012 цнд х мю окюмнбши оепхнд 2013 х 2014 цнднб
+п╒я─п╟п╫я│п©п╬я─я┌
 ======
-[source](http://gov.spb.ru/static/writable/ckeditor/uploads/2012/10/02/Adresnaja-investicionnaja-programma-na-2012-god-i-na-planovyj-period-2013-i-2014-godov.pdf)
-date:
-
-type: exlusive/scraped/downloaded/processed
-author:
-quality:
-
-rows:
-
-headers:
+[п▓п╢я─п╣я│п╫п╟я▐ п╦п╫п╡п╣я│я┌п╦я├п╦п╬п╫п╫п╟я▐ п©я─п╬пЁя─п╟п╪п╪п╟ 2013/14](http://gov.spb.ru/static/writable/ckeditor/uploads/2012/10/02/Adresnaja-investicionnaja-programma-na-2012-god-i-na-planovyj-period-2013-i-2014-godov.pdf) || added by alisa druzhinina
