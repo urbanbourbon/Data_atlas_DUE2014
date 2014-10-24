@@ -1,10 +1,14 @@
-1. http://gov.spb.ru/gov/otrasl/c_culture/culture_statis..
-статистика культурной жизни 
-2. http://www.gibdd.ru/r/78/stat/
-ПОКАЗАТЕЛИ СОСТОЯНИЯ БЕЗОПАСНОСТИ ДОРОЖНОГО ДВИЖЕНИЯ (за 9 месяцев 2014 года) (опять же можно еще в папку транспорт)
-3. http://www.zr.ru/content/news/629924-rossijskie-ugons..
-статистика угонов =) (транспорт+преступность)
-4. http://www.euro-info-center.ru/chto-i-skolko-my-ekspo..
-статистика внешней торговли 
-5. Петростат
+Р§РёСЃР»РµРЅРЅРѕСЃС‚СЊ РЅР°СЃРµР»РµРЅРёСЏ РїРѕ РјСѓРЅРЅРёС†РёРїР°Р»СЊРЅС‹Рј СЂР°Р№РѕРЅР°Рј Р›Рћ:
 http://petrostat.gks.ru/wps/wcm/connect/rosstat_ts/petrostat/ru/statistics/Leningradskaya_area/population/
+
+РЎС‚Р°С‚РёСЃС‚РёРєР° РєСѓР»СЊС‚СѓСЂРЅРѕР№ Р¶РёР·РЅРё:
+http://gov.spb.ru/gov/otrasl/c_culture/culture_statistics/
+
+РџРѕРєР°Р·Р°С‚РµР»Рё СЃРѕСЃС‚РѕСЏРЅРёСЏ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё РґРѕСЂРѕР¶РЅРѕРіРѕ РґРІРёР¶РµРЅРёСЏ (Р·Р° 9 РјРµСЃСЏС†РµРІ 2014 РіРѕРґР°) (РѕРїСЏС‚СЊ Р¶Рµ РјРѕР¶РЅРѕ РµС‰Рµ РІ РїР°РїРєСѓ С‚СЂР°РЅСЃРїРѕСЂС‚):
+http://www.gibdd.ru/r/78/stat/
+
+РЎС‚Р°С‚РёСЃС‚РёРєР° СѓРіРѕРЅРѕРІ (С‚СЂР°РЅСЃРїРѕСЂС‚+РїСЂРµСЃС‚СѓРїРЅРѕСЃС‚СЊ):
+http://www.zr.ru/content/news/629924-rossijskie-ugonshhiki-aktivizirovalis/
+
+РЎС‚Р°С‚РёСЃС‚РёРєР° РІРЅРµС€РЅРµР№ С‚РѕСЂРіРѕРІР»Рё (+СЌРєРѕРЅРѕРјРёРєР°):
+http://www.euro-info-center.ru/chto-i-skolko-my-eksportiruem/statistika-vneshney-torgovli-rossiyskaya-federatsiya-cevero-zapadnyy-federalnyy-okrug-i-sankt-peterburg.html
