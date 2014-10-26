@@ -43,4 +43,5 @@ Deadline: 25.10.2014
 ###Дополнительное
 - [Github Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [StackEdit](https://stackedit.io/)
+- [Работа с Гитом через командную строку (урок)](http://www.git-tower.com/learn/ebook/command-line/appendix/command-line-101)
 
