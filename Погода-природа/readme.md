@@ -13,3 +13,4 @@ soils
 - [ПДК для воды и загрязнение в СПб](http://bluefilters.ucoz.ru/index/voda_v_sankt_peterburge/0-7 ) || by Olga Malozemova
 - [Выбросы в атмосферу](http://www.ecounion.ru/ru/site.php?blockType=253) || by Olga Malozemova
 - [Особо охраняемые природные территории Санкт-Петербурга](http://www.infoeco.ru/index.php?id=57) || by Marina Petrova
+- [Терминалы приема опасных отходов ](http://www.infoeco.ru/ecomobile/index.php?id=40) || by Marina Petrova
