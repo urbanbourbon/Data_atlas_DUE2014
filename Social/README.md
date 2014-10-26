@@ -21,5 +21,5 @@ d <- GET(url=str_c(https://api.vk.com/method/groups.search?q=,  x, "&access_toke
 5. далее мы получаем данные : data <- content(d, as="parsed")$response
 Пример api запроса: 
 https://api.vk.com/method/groups.search?q=центральная&access_token=06e9baed7a58962ffcf0ac338932cb81ede88fba4c85f021011e26abafd491360e7db9e273a339e3aea79&offset=20
-
+- [Уровень преступности](http://crimestat.ru/opendata) ||by Morozova Nadya
 
