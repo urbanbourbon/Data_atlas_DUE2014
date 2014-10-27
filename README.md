@@ -45,3 +45,4 @@ Deadline: 25.10.2014
 - [StackEdit](https://stackedit.io/)
 - [Работа с Гитом через командную строку (урок)](http://www.git-tower.com/learn/ebook/command-line/appendix/command-line-101)
 - [Emoji git!!!](http://www.emoji-cheat-sheet.com/)
+- [про апдейты Гит-хаба](http://kentnguyen.com/development/visualized-git-practices-for-team/)
