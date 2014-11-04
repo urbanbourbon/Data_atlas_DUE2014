@@ -13,5 +13,6 @@
 - [хронологический список наводнений в СПБ](http://www.nevariver.ru/flood_list.php) || added by Khitrina Anastasiya
 - [статистика чрезвычайных ситуациях](http://www.mchs.gov.ru/stats/CHrezvichajnie_situacii) || added by Khitrina Anastasiya
 - [высота домов, обобщенная](http://company.yandex.ru/researches/figures/2014/buildings_height_map.xml) || added by Philipp Kats
-
+- [рейтинг и данные об управляющих организациях СПб] (http://www.reformagkh.ru/mymanager/rating) || added by Anastasia Chubukova
+- [данные о многоквартирных домах: площадь, год, кол-во жителей и состояние] (http://www.reformagkh.ru/myhouse) || added by Anastasia Chubukova
 
