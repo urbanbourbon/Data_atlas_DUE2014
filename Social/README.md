@@ -1,1 +1,6 @@
-sdd
+- [База украденных велосипедов, velootpusk.ru; можно выдернуть СПб + локацию + время кражи](http://www.velootpusk.ru/velolife/stolen_bikes/)
+- [База украденных велосипедов,stolenbike.ru;можно выдернуть СПб + локацию + время кражи](http://stolenbike.ru/index.php/viewbase/view_stolenbikes)
+- [база угонов авто; car-monitoring.ru; можно выдернуть СПб + локацию](http://car-monitoring.ru/poisk/baza-ugonov/)
+- [показатели преступности в ЛО ; источник – портал правовой статистики; таблица](http://crimestat.ru/regions_table_total)
+- [открытые данные по преступности в ЛО(в форматах XML, CSV, ALL CSV, ALL XML); источник – портал правовой статистики](http://crimestat.ru/opendata)
+- [ежемесячные отчеты по преступности  в ЛО (pdf) ;источник – портал правовой статистики](http://crimestat.ru/analytics)
