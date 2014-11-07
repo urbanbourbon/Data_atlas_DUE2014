@@ -18,3 +18,4 @@
 - [границы административных районов СПб (kmz формат); spb4rent.ru](https://www.dropbox.com/s/uvq3y6jh4u98qfs/18%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%20spb4rent.ru.kmz?dl=0)
 - [тарифы Водоканала СПб на различные типы поставляемой воды] (http://www.vodokanal.spb.ru/dlya_abonentov/tarify1) | added by Maria Khrustaleva
 - [рейтинг строительных компаний по их задержкам] (http://www.domkontrol.ru/raiting.php)
+- [база аренды недвижимости КОД ДОСТУПА 71937554](http://pin7.ru)
