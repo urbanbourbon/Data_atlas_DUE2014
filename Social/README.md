@@ -8,3 +8,4 @@
 - [Суды СПб, адреса, телефоны] (http://sankt-peterburgsky.spb.sudrf.ru/modules.php?name=sud)
 - [Медицинские учреждения СПб, врачи, страховые компании] (http://www.spbmed.info/clinics/?ctype=2)
 - [Сведения о доходах, об имуществе и обязательствах имущественного характера лиц, замещающих должности в Следственном комитете Российской Федерации и членов их семей] (http://spb.sledcom.ru/anti_corruption/index.php?SECTION_ID=287)
+- [База данных по социальному служению Русской Православной Церкви](http://social.miloserdie.ru/services) 
