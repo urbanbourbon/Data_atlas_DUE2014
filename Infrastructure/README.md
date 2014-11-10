@@ -19,13 +19,13 @@
 - [тарифы Водоканала СПб на различные типы поставляемой воды] (http://www.vodokanal.spb.ru/dlya_abonentov/tarify1) | added by Maria Khrustaleva
 - [рейтинг строительных компаний по их задержкам] (http://www.domkontrol.ru/raiting.php)
 - [база аренды недвижимости КОД ДОСТУПА 71937554](http://pin7.ru) || added by Tyurina Margarita
-- [Заброшенный Петербург](http://karpovka.net/derel/)
-- [Заброшенный Петербург 2](http://www.save-spb.ru/page/articles/zabroshennyi_peterburg.html?section=articles) 
-- [Заброшенные места](http://blog.stalkersworld.ru/)
-- [Заброшенный объекты Спб и область](http://urban3p.ru/objects/?region_id=15) 
-- [Данные о недостроенных домах](http://www.bn.ru/articles/2012/12/17/98808.html) 
-- [Заброшенный стройки Спб](http://urban3p.ru/category/constructions/?region_id=15&page=4)
-- [Каталог новостроек Спб](http://spb.dolgostroyunet.ru/novostroiki/vse.html)
-- [Аварийный дома Спб](http://www.reformagkh.ru/myhouse/dangerous?tid=2276347&sort=alphabet&item=mkd)
-- [Расселенные дома Спб](http://www.reformagkh.ru/myhouse/rehoused?tid=2276347&sort=alphabet&item=mkd)
-- [Проблемные новостройки Спб](http://www.bn.ru/articles/2012/08/07/94076.html)
+- [Заброшенный Петербург](http://karpovka.net/derel/) || added by Rodikova Julia
+- [Заброшенный Петербург 2](http://www.save-spb.ru/page/articles/zabroshennyi_peterburg.html?section=articles) || added by Rodikova Julia
+- [Заброшенные места](http://blog.stalkersworld.ru/)  || added by Julia Rodikova
+- [Заброшенный объекты Спб и область](http://urban3p.ru/objects/?region_id=15)  || added by Julia Rodikova 
+- [Данные о недостроенных домах](http://www.bn.ru/articles/2012/12/17/98808.html)  || added by Julia Rodikova 
+- [Заброшенный стройки Спб](http://urban3p.ru/category/constructions/?region_id=15&page=4)  || added by Julia Rodikova
+- [Каталог новостроек Спб](http://spb.dolgostroyunet.ru/novostroiki/vse.html)  || added by Julia Rodikova
+- [Аварийный дома Спб](http://www.reformagkh.ru/myhouse/dangerous?tid=2276347&sort=alphabet&item=mkd)  || added by Julia Rodikova
+- [Расселенные дома Спб](http://www.reformagkh.ru/myhouse/rehoused?tid=2276347&sort=alphabet&item=mkd)  || added by Julia Rodikova
+- [Проблемные новостройки Спб](http://www.bn.ru/articles/2012/08/07/94076.html)  || added by Julia Rodikova
