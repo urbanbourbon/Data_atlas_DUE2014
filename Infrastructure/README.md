@@ -29,3 +29,4 @@
 - [Аварийный дома Спб](http://www.reformagkh.ru/myhouse/dangerous?tid=2276347&sort=alphabet&item=mkd)  || added by Julia Rodikova
 - [Расселенные дома Спб](http://www.reformagkh.ru/myhouse/rehoused?tid=2276347&sort=alphabet&item=mkd)  || added by Julia Rodikova
 - [Проблемные новостройки Спб](http://www.bn.ru/articles/2012/08/07/94076.html)  || added by Julia Rodikova
+- [Starbuks API](https://openapi.starbucks.com/location/v1/stores?&offset=2&radius=100&limit=50&brandCode=SBUX&latLng=53.38005,-1.469421&apikey=7b35m595vccu6spuuzu2rjh4&_=1370295322059)
